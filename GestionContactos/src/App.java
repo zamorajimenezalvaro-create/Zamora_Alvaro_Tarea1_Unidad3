@@ -12,7 +12,7 @@ public class App {
         String user = "admin";
         String password = "Admin#34";
 
-        // 2. Arrays con los datos del enunciado e inserción de los datos en la base de datos
+        // 2. Arrays con los datos del enunciado e inserción de los mismos en la base de datos
         String[] nombres = {"Ana", "Carlos", "Carmen"};
         String[] apellidos = {"Gómez", "Lopez", "Alvarez"};
         String[] telefonos = {"958452154", "958654125", "958321478"};
